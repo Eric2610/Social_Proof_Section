@@ -21,6 +21,7 @@ body{
     "main"
     "main"
     ".";
+    overflow-x: hidden;
 }
 
 main{
@@ -204,6 +205,7 @@ main{
         ". main main main ."
         ". main main main ."
         ". . . . .";
+        overflow-x: hidden;
     }
 
     main{
